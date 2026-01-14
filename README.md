@@ -1,2 +1,0 @@
-# Sipsipliquor
-Sipsipliquor website
